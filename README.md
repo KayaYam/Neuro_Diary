@@ -4,9 +4,9 @@
 
 NeuroDiary — простое и красивое приложение для ведения дневника на Android. Пишешь мысли, ставишь #теги, добавляешь подзаголовки — и всё аккуратно организовано. А если захочешь — можешь получить глубокий взгляд со стороны от ИИ в одной из девяти ролей
 
-![Список заметок](screenshots/notes_list.jpg)
-![Редактор](screenshots/editor.jpg)
-![Оракул](screenshots/oracle.jpg)
+<img src="screenshots/notes_list.jpg" width="300" alt="Список заметок">
+<img src="screenshots/editor.jpg" width="300" alt="Редактор">
+<img src="screenshots/oracle.jpg" width="300" alt="Оракул">
 
 ### Что это такое на самом деле
 
@@ -41,7 +41,7 @@ NeuroDiary — простое и красивое приложение для в
 * Экспорт/импорт всех записей
 * Тёмная тема
 
-Быстрый старт
+## Быстрый старт
 
 1. Скачай последнюю версию APK
 2. Установи на Android 8.0+
@@ -53,8 +53,8 @@ NeuroDiary — простое и красивое приложение для в
 
 | | | |
 |---|---|---|
-| ![Главный экран](screenshots/main_screen.jpg) | ![Редактор](screenshots/editor_2.jpg) | ![Оракул](screenshots/oracle_2.jpg) |
-| ![Роли](screenshots/roles.jpg) | ![Оракул 2](screenshots/oracle_3.jpg) | ![Оракул 3](screenshots/oracle_4.jpg) |
+| <img src="screenshots/main_screen.jpg" width="300"> | <img src="screenshots/editor_2.jpg" width="300"> | <img src="screenshots/oracle_2.jpg" width="300"> |
+| <img src="screenshots/roles.jpg" width="300"> | <img src="screenshots/oracle_3.jpg" width="300"> | <img src="screenshots/oracle_4.jpg" width="300"> |
 
 ## Конфиденциальность
 
